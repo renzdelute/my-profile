@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renz Delute</h1>
-<h3 align="center">Still learning, still coding, still growing 💻</h3>
+<h3 align="center">💻 Hi! I’m Renz — a passionate website developer who’s still learning and growing every day. I enjoy turning ideas into functional and creative web experiences. Always exploring new technologies, improving my skills, and building projects that help me learn something new. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renzdelute&label=Profile%20views&color=0e75b6&style=flat" alt="renzdelute" /> </p>
 
