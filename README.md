@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renzdelute&label=Profile%20views&color=0e75b6&style=flat" alt="renzdelute" /> </p>
 
 - 📫 How to reach me **renzdelute18@gmail.com**
+- Let's Connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
